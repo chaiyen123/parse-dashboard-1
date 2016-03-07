@@ -1,0 +1,15 @@
+{
+  "name": "dashboard.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parse-dashboard --config ./dashboard.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parse-dashboard": "0.0.1"
+  }
+}
